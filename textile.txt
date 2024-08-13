@@ -1,0 +1,29 @@
+# https://textile-lang.com/doc/block-code
+# https://textile-lang.com/doc/css-styles
+## aaa
+## fsdfsd
+### ffdsfd
+#### *hdg*
+<pre><code>bc. 10 PRINT "I ROCK AT BASIC!"
+20 GOTO 10</code></pre>
+
+bq. A block quotation.
+bq. bc. 10 PRINT "I ROCK AT BASIC!"
+bq. 20 GOTO 10
+
+h1. Header 1
+
+h2. Header 2
+
+h3. Header 3
+
+h4. Header 4
+
+
+"Wikipedia":https://en.wikipedia.org/
+
+p{color:rgba(0,255,0,0.3);font-weight:bold;}. This is red spaced text.
+
+| A | simple | table | row |
+| And | another | table | row |
+| With an | | empty | cell |
